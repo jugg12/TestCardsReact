@@ -1,13 +1,14 @@
 # -Тестовое задание-
 
 ## Описание:
-> Все приложение сделано согласно ТЗ. 
-> Не были использованы следующие библиотеки:
->   - React-hook-forms (следуя из этого, также не была использована библиотека Yup);
->   - React-i18next.
-> Но с данными библиотеками ознакомлен и практика их использования была:
->   Yup - https://github.com/jugg12/MyFinallyProject/blob/master/my-project/src/ValidationSchema.tsx
->   React-next - https://github.com/jugg12/DzAll/tree/main/7(Next)/next-dz
+Все приложение сделано согласно ТЗ. 
+>Не были использованы следующие библиотеки:
+> - React-hook-forms (следуя из этого, также не была использована библиотека Yup);
+> - React-i18next.
+>  Но с данными библиотеками ознакомлен и практика их использования была:
+>>  Yup - https://github.com/jugg12/MyFinallyProject/blob/master/my-project/src/ValidationSchema.tsx
+>>
+>>   React-next - https://github.com/jugg12/DzAll/tree/main/7(Next)/next-dz
 ### Дополнительно были добавлены:
 >   1) пагинация;
 >   2) адаптивность;
