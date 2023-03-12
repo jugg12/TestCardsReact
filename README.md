@@ -8,7 +8,7 @@
 > Но с данными библиотеками ознакомлен и практика их использования была:
 >   Yup - https://github.com/jugg12/MyFinallyProject/blob/master/my-project/src/ValidationSchema.tsx
 >   React-next - https://github.com/jugg12/DzAll/tree/main/7(Next)/next-dz
-> Дополнительно были добавлены:
+### Дополнительно были добавлены:
 >   1) пагинация;
 >   2) адаптивность;
 >   3) анимации,ховеры,нажатия(визуальная часть);
